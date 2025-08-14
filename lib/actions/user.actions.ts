@@ -1,4 +1,4 @@
-"user server";
+"use server";
 
 import { signIn, signOut } from "@/app/(root)/auth";
 import { isRedirectError } from "next/dist/client/components/redirect-error";
